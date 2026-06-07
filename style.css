@@ -1,0 +1,29 @@
+body {
+     background-color: #f0f2f5; 
+     font-family: 'Segoe UI', sans-serif;
+     }
+.navbar { 
+    background: linear-gradient(90deg, #1e3c72 0%, #2a5298 100%) !important; 
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1); 
+}
+.card { 
+    border: none; 
+    border-radius: 20px; 
+    box-shadow: 0 10px 30px rgba(0,0,0,0.05); 
+    margin-top: 20px; 
+}
+.btn-primary, .btn-success { 
+    border-radius: 10px;
+     padding: 10px 20px;
+      font-weight: 600; 
+}
+#reader { 
+    border: 5px solid #fff !important;
+     border-radius: 15px; 
+     overflow: hidden;
+ }
+.table { 
+    background: white;
+     border-radius: 15px;
+      overflow: hidden; 
+}
